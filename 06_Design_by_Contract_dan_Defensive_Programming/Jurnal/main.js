@@ -1,36 +1,30 @@
 const SayaTubeVideo = require("./sayaTubeVideo");
 const SayaTubeUser = require("./sayaTubeUser");
 
-function main() {
-  const username = "Samud";
-  const user = new SayaTubeUser(username);
+const user = new SayaTubeUser("Samud");
 
-  const judulFilm = [
-    "Review Film Jarwo oleh Samudra",
-    "Review Film Tom n Jerry oleh Samudra",
-    "Review Film Upin Ipin oleh Samudra",
-    "Review Film Anime oleh Samudra",
-    "Review Film Naruto Masuk Akatsuki oleh Samudra",
-    "Review Film Boruto Uchiha oleh Samudra",
-    "Review Film Interstellar oleh Samudra",
-    "Review Film Godfather oleh Samudra",
-    "Review Film Marvel Rivals oleh Samudra",
-    "Review Film Mobil Legends oleh Samudra",
-    
-  ];
-
-  for (let judul of judulFilm) {
-    const video = new SayaTubeVideo(judul);
-    video.increasePlayCount(Math.floor(Math.random() * 100000));
-    user.addVideo(video);
-  }
-
-  console.log("=== Detail Video ===");
-  user.uploadedVideos.forEach((video) => video.printVideoDetails());
-
-  console.log("\n=== Statistik User ===");
-  user.printAllVideoPlaycount();
-  console.log(`Total Play Count: ${user.getTotalVideoPlayCount()}`);
+for (let i = 1; i <= 10; i++) {
+  const video = new SayaTubeVideo(`Review Film Ke-${i} oleh Samudra`);
+  video.increasePlayCount(1);
+  user.addVideo(video);
 }
 
-main();
+new SayaTubeVideo("a".repeat(201)); //judul kepanjangan
+
+new SayaTubeUser("a".repeat(101)); //username kepanjangan
+
+user.addVideo(null); //tidak boleh menambah vidio kosong
+
+const failVideo = new SayaTubeVideo("Coba Play Count Besar");
+    failVideo.increasePlayCount(25000001);
+
+const overflowVideo = new SayaTubeVideo("Simulasi Overflow");
+    for (let index = 0; index < 360287971; index++) {
+        overflowVideo.increasePlayCount(25000000);
+    }
+    user.addVideo(overflowVideo);
+
+console.log("\n=== Daftar Video Samud ===");
+user.printAllVideoPlaycount();
+
+console.log("\nTotal Semua Play Count:", user.getTotalVideoPlayCount());

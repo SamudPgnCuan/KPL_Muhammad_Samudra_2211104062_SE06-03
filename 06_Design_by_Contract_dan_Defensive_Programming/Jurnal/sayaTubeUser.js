@@ -1,37 +1,47 @@
-const SayaTubeVideo = require("./sayaTubeVideo");
-
 class SayaTubeUser {
   constructor(username) {
-    if (!username || typeof username !== "string" || username.length > 100) {
-      throw new Error("Username harus string dan maksimal 100 karakter.");
-    }
+    try {
+      if (username == null) throw new Error("Username tidak boleh null.");
+      if (typeof username !== "string")
+        throw new Error("Username harus berupa string.");
+      if (username.length > 100)
+        throw new Error("Username maksimal 100 karakter.");
 
-    this.username = username;
-    this.uploadedVideos = [];
+      this.username = username;
+      this.uploadedVideos = [];
+    } catch (error) {
+      console.error(`[ERROR Constructor] ${error.message}`);
+    }
   }
 
   addVideo(video) {
-    if (!(video instanceof SayaTubeVideo)) {
-      throw new Error(
-        "Hanya objek dari kelas SayaTubeVideo yang bisa ditambahkan."
-      );
-    }
+    try {
+      if (video == null) throw new Error("Video tidak boleh null.");
+      if (typeof video !== "object")
+        throw new Error("Video harus berupa object.");
+      if (video.playCount >= Number.MAX_SAFE_INTEGER) {
+        throw new Error("Play count video melebihi batas maksimum (Overflow).");
+      }
 
-    this.uploadedVideos.push(video);
+      this.uploadedVideos.push(video);
+    } catch (error) {
+      console.error(`[ERROR addVideo] ${error.message}`);
+    }
   }
 
   getTotalVideoPlayCount() {
-    return this.uploadedVideos.reduce(
-      (total, video) => total + video.playCount,
-      0
-    );
+    let total = 0;
+    for (const video of this.uploadedVideos) {
+      total += video.playCount;
+    }
+    return total;
   }
 
   printAllVideoPlaycount() {
     console.log(`User: ${this.username}`);
-    this.uploadedVideos.forEach((video, index) => {
-      console.log(`Video ${index + 1} judul: ${video.title}`);
-    });
+    for (let i = 0; i < Math.min(8, this.uploadedVideos.length); i++) {
+      console.log(`Video ${i + 1} judul: ${this.uploadedVideos[i].title}`);
+    }
   }
 }
 

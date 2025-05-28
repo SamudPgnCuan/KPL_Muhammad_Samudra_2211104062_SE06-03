@@ -1,26 +1,39 @@
+
+
 class SayaTubeVideo {
   constructor(title) {
-    if (!title || typeof title !== "string" || title.length > 100) {
-      throw new Error("Judul video harus string dan maksimal 100 karakter.");
-    }
+    try {
+      if (title == null) throw new Error("Judul tidak boleh null.");
+      if (typeof title !== "string")
+        throw new Error("Judul harus berupa string.");
+      if (title.length > 200) throw new Error("Judul maksimal 200 karakter.");
 
-    this.id = this.#generateRandomId();
-    this.title = title;
-    this.playCount = 0;
+      this.id = this.#generateRandomId();
+      this.title = title;
+      this.playCount = 0;
+    } catch (error) {
+      console.error(`[ERROR Constructor] ${error.message}`);
+    }
   }
 
   #generateRandomId() {
     return Math.floor(10000 + Math.random() * 90000);
   }
 
-  increasePlayCount(count) {
-    if (typeof count !== "number" || count <= 0 || count > 10000000) {
-      throw new Error(
-        "Penambahan playCount harus antara 1 sampai 10.000.000."
-      );
-    }
+  increasePlayCount(count, override = false) {
+    try {
+      if (typeof count !== "number")
+        throw new Error("Input harus berupa angka.");
+      if (count < 0) throw new Error("Play count tidak boleh negatif.");
 
-    this.playCount += count;
+      if (!override && count > 25000000)
+        throw new Error("Penambahan play count maksimal 25.000.000.");
+
+
+      this.playCount += count;
+    } catch (error) {
+      console.error(`[ERROR increasePlayCount] ${error.message}`);
+    }
   }
 
   printVideoDetails() {
@@ -31,4 +44,3 @@ class SayaTubeVideo {
 }
 
 module.exports = SayaTubeVideo;
-
