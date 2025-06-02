@@ -136,6 +136,7 @@ main();
 Di sini class-class tadi dipanggil dan objek video dibuat dengan diisi data-datanya.
 
 **Output**
+
 ![](img/soal1_1.png)
 ![](img/soal1_2.png)
 
