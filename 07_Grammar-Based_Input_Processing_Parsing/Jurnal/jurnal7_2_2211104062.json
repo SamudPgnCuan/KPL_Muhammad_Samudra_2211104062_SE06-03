@@ -1,0 +1,32 @@
+{
+   "members" : [
+     {
+        "firstName": "Samud",
+        "lastName": "Lagi",
+        "gender": "male",
+        "age": 21,
+        "nim": "2211104001"
+     },
+     {
+        "firstName": "Samuud",
+        "lastName": "Again",
+        "gender": "male",
+        "age": 21,
+        "nim": "2211104002"
+     },
+     {
+        "firstName": "Samuuud",
+        "lastName": "Pelupa",
+        "gender": "male",
+        "age": 21,
+        "nim": "2211104003"
+     },
+     {
+       "firstName": "Samuuuud",
+       "lastName": "Waduh",
+       "gender": "male",
+       "age": 21,
+       "nim": "2211104004"
+    }
+   ]
+ }
