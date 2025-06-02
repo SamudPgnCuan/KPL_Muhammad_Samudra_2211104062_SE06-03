@@ -1,0 +1,15 @@
+{
+   "firstName": "Muhammad",
+   "lastName": "Samudra",
+   "gender": "male",
+   "age": 21,
+   "address": {
+       "streetAddress": "Jl KS Tubun",
+       "city": "Purwokerto",
+       "state": "Central Java"
+   },
+   "courses": [
+       { "code": "CCK2KAB4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CCK3KAB3", "name": "Manajemen Konfigurasi dan Evolusi PL" }
+   ]
+}
