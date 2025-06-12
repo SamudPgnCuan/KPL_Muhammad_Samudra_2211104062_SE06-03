@@ -1,0 +1,12 @@
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\10_Library_Construction\TP\tpmodul10_2211104062\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.deps.json
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\10_Library_Construction\TP\tpmodul10_2211104062\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.dll
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\10_Library_Construction\TP\tpmodul10_2211104062\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.pdb
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\10_Library_Construction\TP\tpmodul10_2211104062\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\10_Library_Construction\TP\tpmodul10_2211104062\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.AssemblyInfoInputs.cache
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\10_Library_Construction\TP\tpmodul10_2211104062\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.AssemblyInfo.cs
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\10_Library_Construction\TP\tpmodul10_2211104062\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.csproj.CoreCompileInputs.cache
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\10_Library_Construction\TP\tpmodul10_2211104062\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.sourcelink.json
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\10_Library_Construction\TP\tpmodul10_2211104062\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.dll
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\10_Library_Construction\TP\tpmodul10_2211104062\AljabarLibraries\obj\Debug\net8.0\refint\AljabarLibraries.dll
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\10_Library_Construction\TP\tpmodul10_2211104062\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.pdb
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\10_Library_Construction\TP\tpmodul10_2211104062\AljabarLibraries\obj\Debug\net8.0\ref\AljabarLibraries.dll

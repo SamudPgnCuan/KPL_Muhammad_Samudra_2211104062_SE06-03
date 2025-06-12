@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Git Praktikum KPL\\KPL_Muhammad_Samudra_2211104062_SE06-03\\10_Library_Construction\\Jurnal\\modul10_2211194962\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31E64D78-237C-4850-A58F-A0C80FE2086F}|MatematikaLibraries\\MatematikaLibraries.csproj|e:\\git praktikum kpl\\kpl_muhammad_samudra_2211104062_se06-03\\10_library_construction\\jurnal\\modul10_2211194962\\matematikalibraries\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E64D78-237C-4850-A58F-A0C80FE2086F}|MatematikaLibraries\\MatematikaLibraries.csproj|solutionrelative:matematikalibraries\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CBB6E5-B268-45FB-9A40-6133602CCD5C}|TesMatematika\\TesMatematika.csproj|e:\\git praktikum kpl\\kpl_muhammad_samudra_2211104062_se06-03\\10_library_construction\\jurnal\\modul10_2211194962\\tesmatematika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CBB6E5-B268-45FB-9A40-6133602CCD5C}|TesMatematika\\TesMatematika.csproj|solutionrelative:tesmatematika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CBB6E5-B268-45FB-9A40-6133602CCD5C}|TesMatematika\\TesMatematika.csproj|e:\\git praktikum kpl\\kpl_muhammad_samudra_2211104062_se06-03\\10_library_construction\\jurnal\\modul10_2211194962\\tesmatematika\\tesmatematika.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13CBB6E5-B268-45FB-9A40-6133602CCD5C}|TesMatematika\\TesMatematika.csproj|solutionrelative:tesmatematika\\tesmatematika.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TesMatematika",
+              "DocumentMoniker": "E:\\Git Praktikum KPL\\KPL_Muhammad_Samudra_2211104062_SE06-03\\10_Library_Construction\\Jurnal\\modul10_2211194962\\TesMatematika\\TesMatematika.csproj",
+              "RelativeDocumentMoniker": "TesMatematika\\TesMatematika.csproj",
+              "ToolTip": "E:\\Git Praktikum KPL\\KPL_Muhammad_Samudra_2211104062_SE06-03\\10_Library_Construction\\Jurnal\\modul10_2211194962\\TesMatematika\\TesMatematika.csproj",
+              "RelativeToolTip": "TesMatematika\\TesMatematika.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-12T13:41:08.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Git Praktikum KPL\\KPL_Muhammad_Samudra_2211104062_SE06-03\\10_Library_Construction\\Jurnal\\modul10_2211194962\\MatematikaLibraries\\Class1.cs",
+              "RelativeDocumentMoniker": "MatematikaLibraries\\Class1.cs",
+              "ToolTip": "E:\\Git Praktikum KPL\\KPL_Muhammad_Samudra_2211104062_SE06-03\\10_Library_Construction\\Jurnal\\modul10_2211194962\\MatematikaLibraries\\Class1.cs",
+              "RelativeToolTip": "MatematikaLibraries\\Class1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:40:54.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Git Praktikum KPL\\KPL_Muhammad_Samudra_2211104062_SE06-03\\10_Library_Construction\\Jurnal\\modul10_2211194962\\TesMatematika\\Program.cs",
+              "RelativeDocumentMoniker": "TesMatematika\\Program.cs",
+              "ToolTip": "E:\\Git Praktikum KPL\\KPL_Muhammad_Samudra_2211104062_SE06-03\\10_Library_Construction\\Jurnal\\modul10_2211194962\\TesMatematika\\Program.cs",
+              "RelativeToolTip": "TesMatematika\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:39:29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

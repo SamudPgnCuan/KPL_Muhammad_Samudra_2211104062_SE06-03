@@ -1,0 +1,12 @@
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\10_Library_Construction\Jurnal\modul10_2211194962\MatematikaLibraries\bin\Debug\net8.0\MatematikaLibraries.deps.json
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\10_Library_Construction\Jurnal\modul10_2211194962\MatematikaLibraries\bin\Debug\net8.0\MatematikaLibraries.dll
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\10_Library_Construction\Jurnal\modul10_2211194962\MatematikaLibraries\bin\Debug\net8.0\MatematikaLibraries.pdb
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\10_Library_Construction\Jurnal\modul10_2211194962\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\10_Library_Construction\Jurnal\modul10_2211194962\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.AssemblyInfoInputs.cache
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\10_Library_Construction\Jurnal\modul10_2211194962\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.AssemblyInfo.cs
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\10_Library_Construction\Jurnal\modul10_2211194962\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.csproj.CoreCompileInputs.cache
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\10_Library_Construction\Jurnal\modul10_2211194962\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.sourcelink.json
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\10_Library_Construction\Jurnal\modul10_2211194962\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.dll
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\10_Library_Construction\Jurnal\modul10_2211194962\MatematikaLibraries\obj\Debug\net8.0\refint\MatematikaLibraries.dll
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\10_Library_Construction\Jurnal\modul10_2211194962\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.pdb
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\10_Library_Construction\Jurnal\modul10_2211194962\MatematikaLibraries\obj\Debug\net8.0\ref\MatematikaLibraries.dll
