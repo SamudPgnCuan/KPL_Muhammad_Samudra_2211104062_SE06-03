@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Git Praktikum KPL\\KPL_Muhammad_Samudra_2211104062_SE06-03\\13_Design_Pattern_Implementation\\Jurnal\\modul13_2211104062\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0408D13B-7F70-4D59-A26D-BE43D79278B6}|modul13_2211104062\\modul13_2211104062.csproj|e:\\git praktikum kpl\\kpl_muhammad_samudra_2211104062_se06-03\\13_design_pattern_implementation\\jurnal\\modul13_2211104062\\modul13_2211104062\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0408D13B-7F70-4D59-A26D-BE43D79278B6}|modul13_2211104062\\modul13_2211104062.csproj|solutionrelative:modul13_2211104062\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Git Praktikum KPL\\KPL_Muhammad_Samudra_2211104062_SE06-03\\13_Design_Pattern_Implementation\\Jurnal\\modul13_2211104062\\modul13_2211104062\\Program.cs",
+              "RelativeDocumentMoniker": "modul13_2211104062\\Program.cs",
+              "ToolTip": "E:\\Git Praktikum KPL\\KPL_Muhammad_Samudra_2211104062_SE06-03\\13_Design_Pattern_Implementation\\Jurnal\\modul13_2211104062\\modul13_2211104062\\Program.cs",
+              "RelativeToolTip": "modul13_2211104062\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAADwv2QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:26:40.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
