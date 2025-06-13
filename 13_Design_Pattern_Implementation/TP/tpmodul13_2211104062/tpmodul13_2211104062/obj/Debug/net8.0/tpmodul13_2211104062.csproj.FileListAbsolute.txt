@@ -1,0 +1,15 @@
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\13_Design_Pattern_Implementation\TP\tpmodul13_2211104062\tpmodul13_2211104062\bin\Debug\net8.0\tpmodul13_2211104062.exe
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\13_Design_Pattern_Implementation\TP\tpmodul13_2211104062\tpmodul13_2211104062\bin\Debug\net8.0\tpmodul13_2211104062.deps.json
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\13_Design_Pattern_Implementation\TP\tpmodul13_2211104062\tpmodul13_2211104062\bin\Debug\net8.0\tpmodul13_2211104062.runtimeconfig.json
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\13_Design_Pattern_Implementation\TP\tpmodul13_2211104062\tpmodul13_2211104062\bin\Debug\net8.0\tpmodul13_2211104062.dll
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\13_Design_Pattern_Implementation\TP\tpmodul13_2211104062\tpmodul13_2211104062\bin\Debug\net8.0\tpmodul13_2211104062.pdb
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\13_Design_Pattern_Implementation\TP\tpmodul13_2211104062\tpmodul13_2211104062\obj\Debug\net8.0\tpmodul13_2211104062.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\13_Design_Pattern_Implementation\TP\tpmodul13_2211104062\tpmodul13_2211104062\obj\Debug\net8.0\tpmodul13_2211104062.AssemblyInfoInputs.cache
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\13_Design_Pattern_Implementation\TP\tpmodul13_2211104062\tpmodul13_2211104062\obj\Debug\net8.0\tpmodul13_2211104062.AssemblyInfo.cs
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\13_Design_Pattern_Implementation\TP\tpmodul13_2211104062\tpmodul13_2211104062\obj\Debug\net8.0\tpmodul13_2211104062.csproj.CoreCompileInputs.cache
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\13_Design_Pattern_Implementation\TP\tpmodul13_2211104062\tpmodul13_2211104062\obj\Debug\net8.0\tpmodul13_2211104062.sourcelink.json
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\13_Design_Pattern_Implementation\TP\tpmodul13_2211104062\tpmodul13_2211104062\obj\Debug\net8.0\tpmodul13_2211104062.dll
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\13_Design_Pattern_Implementation\TP\tpmodul13_2211104062\tpmodul13_2211104062\obj\Debug\net8.0\refint\tpmodul13_2211104062.dll
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\13_Design_Pattern_Implementation\TP\tpmodul13_2211104062\tpmodul13_2211104062\obj\Debug\net8.0\tpmodul13_2211104062.pdb
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\13_Design_Pattern_Implementation\TP\tpmodul13_2211104062\tpmodul13_2211104062\obj\Debug\net8.0\tpmodul13_2211104062.genruntimeconfig.cache
+E:\Git Praktikum KPL\KPL_Muhammad_Samudra_2211104062_SE06-03\13_Design_Pattern_Implementation\TP\tpmodul13_2211104062\tpmodul13_2211104062\obj\Debug\net8.0\ref\tpmodul13_2211104062.dll
